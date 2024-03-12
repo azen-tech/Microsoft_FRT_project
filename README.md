@@ -1,12 +1,12 @@
-# Microsoft-Future-Ready-Talent-Virtual-Internship-Project
+# Microsoft_FRT_project
 
-This is the our final project created for Microsoft Future Ready Talent Virtual Internship Program
+This is my final project created for Microsoft Future Ready Talent Virtual Internship Program
 
-# [Medpill Healthcare Website with Healthbot](https://white-moss-0ef554e00.3.azurestaticapps.net)
+# [MedMobi Healthcare Website with Healthbot]()
 
-Project Link :https://white-moss-0ef554e00.3.azurestaticapps.net
+Project Link
 
-Demo Video :https://vimeo.com/824150188/c6b69c74dd?share=copy
+Demo Video 
 
 Web Technologies used : HTML, CSS, JS, Bootstrap
 
@@ -19,34 +19,23 @@ Static Web Apps , Healthbot
 Health
 
 ### Project Title :
-Medpill - Provide affordable healthcare services
+MedMobi- Healthcare of Today
 
 ### Problem Statement/Opportunity :
-Access to health information: Online health websites provide easy access to health information for people who might not have access to this information otherwise. This can include people who live in remote areas or those who have limited access to healthcare resources.
+Limited access to health information: Many individuals, particularly those residing in remote areas or lacking access to traditional healthcare resources, face challenges in obtaining essential health information. This limitation hinders their ability to make informed decisions about their well-being and healthcare.
 
-Convenience: Online health websites provide a convenient way for people to access health information and resources from the comfort of their own homes. This can save time and money compared to traditional healthcare services.
+Inconvenience: The absence of accessible health information channels forces people to rely on traditional healthcare services, which can be time-consuming and costly. This inconvenience may result in delayed or inadequate healthcare for those who could benefit from more efficient alternatives.
 
-Empowerment: Online health websites can empower people to take control of their own health and make informed decisions about their healthcare. This can lead to better health outcomes and a higher quality of life.
+Lack of empowerment: Without easy access to online health resources, individuals are deprived of the opportunity to take an active role in managing their health. This lack of empowerment may lead to a decreased ability to make informed decisions, potentially impacting overall health outcomes and diminishing the overall quality of life.
 
 ### Project Description :
- Medpill website is well designed and best befitted for Medical purpose such as Hospital supplies, Clinics, Surgical website, Clinical Laboratory, Health Care centers, etc.
-This website makes your medical needs easy to keep all the records related to patients and doctors suggestions for the treatment.
-Medpill website is a platform that provides various healthcare services through the internet. These services can include consultations with medical professionals, online prescriptions, ordering medical supplies, and access to medical information and resources. Online healthcare websites can be useful for individuals who are unable to physically visit a healthcare facility due to geographical, physical or other constraints, as well as those who prefer the convenience of accessing healthcare services from the comfort of their homes. Additionally, online healthcare websites can help reduce the workload of healthcare providers and minimize waiting times for patients. It's important to note that while online healthcare websites can provide convenience, they should never replace the need for in-person medical care in emergency situations.
+The Mobimed platform is expertly crafted to serve the specific needs of medical establishments, including hospitals, clinics, surgical facilities, clinical laboratories, and health care centers. With a thoughtfully designed interface, Mobimed facilitates seamless record-keeping for patients and efficient management of doctors' treatment recommendations.
 
+Functioning as an integrated medical solution, the Mobimed platform acts as a central hub offering a diverse array of healthcare services accessible through the internet. These services encompass virtual consultations with healthcare professionals, online prescription services, streamlined medical supply ordering, and a wealth of medical information and resources.
 
-### Screenshots :
-![Screenshot (35)](https://user-images.githubusercontent.com/93502957/236379189-cfb0480f-8a86-412c-9a2d-f6c2380ed503.png)
+Tailored for individuals facing challenges in physically visiting healthcare facilities due to geographical constraints, physical limitations, or other logistical barriers, Mobimed provides a convenient option for accessing healthcare services from the comfort of one's home.
 
-![Screenshot (36)](https://user-images.githubusercontent.com/93502957/236379210-55e184d5-287b-46d5-971c-4d84d26c5ed3.png)
+In addition to enhancing accessibility for patients, Mobimed contributes to the optimization of healthcare provider workflows. By offering online services, it has the potential to reduce the workload of healthcare professionals and minimize patient waiting times, ultimately improving overall efficiency.
 
-![Screenshot (37)](https://user-images.githubusercontent.com/93502957/236379219-255cc6e9-e57a-414b-a683-dd423034bb65.png)
-
-![Screenshot (38)](https://user-images.githubusercontent.com/93502957/236379238-8fda38a9-e57f-4694-bad9-6b023c3d2006.png)
-
-### Healthbot Screenshots:
-
-![Screenshot (39)](https://user-images.githubusercontent.com/93502957/236379293-afbfcdaa-32f8-45e8-9c62-ae30db806dfe.png)
-
-![Screenshot (40)](https://user-images.githubusercontent.com/93502957/236379307-1964aa6b-35dd-4deb-9495-85d2543bb71f.png)
-
+It's important to note that while Mobimed emphasizes convenience, it is not intended to replace the necessity of in-person medical care, especially in emergency situations. The platform complements traditional healthcare by providing a user-friendly and accessible avenue for various medical needs.
 
